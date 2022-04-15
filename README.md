@@ -7,7 +7,7 @@ CPython及びCythonで書かれたモジュールを1ファイルに展開し、
 ## Install
 
 ```sh
-# python -m pip install git+...
+python -m pip install git+https://github.com/bayashi-cl/ac-expander
 ```
 
 ## Usage
